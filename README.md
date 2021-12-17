@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **jozimarbrazil/jozimarbrazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Junior Software Developer recently graduated from a Bsc in IT and looking for an opportunity to start my career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a great admiration for all the things that technology allows human beings to do.
+
+🔭 I’m currently working on my portfolio website using React.
+🌱 I’m currently studying for Java SE 8 Programmer I certification
+👯 I’m looking to collaborate on open source
+💬 Ask me about ... Anything
+
+Languages and Tools:
+Java
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Node.js
+
+python
+
+flask
+
+SQL
+
+Git
+
+GitHub
+
+Docker
+
+Terminal
+
+Visual Studio Code
+
