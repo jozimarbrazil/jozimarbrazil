@@ -2,7 +2,7 @@
 
 ### Hello, I'm jozimar!   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
- <img align="right" alt="GIF" src="https://github.com/jozimarbrazil/jozimarbrazil/blob/main/coder-boy.gif?raw=true" width="500" height="320" />
+
 
 
 ## I'm a Junior Software Developer recently graduated from a Bsc in IT and looking for an opportunity to start my career. 
