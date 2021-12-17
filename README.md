@@ -1,9 +1,7 @@
 ### Hi there 👋 
 
-<!--
-**jozimarbrazil/jozimarbrazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm a Junior Software Developer recently graduated from a Bsc in IT and looking for an opportunity to start my career.
+ I'm a Junior Software Developer recently graduated from a Bsc in IT and looking for an opportunity to start my career.
 
 I have a great admiration for all the things that technology allows human beings to do.
 
@@ -41,4 +39,4 @@ Terminal
 
 Visual Studio Code
 
--->
+
